@@ -19,9 +19,6 @@ Welcome to the Algo Mastery Track! This repository is dedicated to tracking my j
 1. **Navigate** to the `solutions` folder to find the code for each problem.
 2. **Read the Approach** section to understand how I tackled the problem.
 3. **Explore the Code** to see the solution implementation in Python.
-
-Perfect! Here's how you can add the Google Sheet link to your `README.md` file in a clean and professional way:
-
 ---
 
 ### 📊 Progress Tracker
